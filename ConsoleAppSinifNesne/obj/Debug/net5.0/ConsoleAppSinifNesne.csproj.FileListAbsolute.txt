@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\bin\Debug\net5.0\ConsoleAppSinifNesne.exe
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\bin\Debug\net5.0\ConsoleAppSinifNesne.deps.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\bin\Debug\net5.0\ConsoleAppSinifNesne.runtimeconfig.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\bin\Debug\net5.0\ConsoleAppSinifNesne.runtimeconfig.dev.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\bin\Debug\net5.0\ConsoleAppSinifNesne.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\bin\Debug\net5.0\ref\ConsoleAppSinifNesne.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\bin\Debug\net5.0\ConsoleAppSinifNesne.pdb
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ConsoleAppSinifNesne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ConsoleAppSinifNesne.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ConsoleAppSinifNesne.AssemblyInfo.cs
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ConsoleAppSinifNesne.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ConsoleAppSinifNesne.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ref\ConsoleAppSinifNesne.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ConsoleAppSinifNesne.pdb
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ConsoleAppSinifNesne.genruntimeconfig.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleAppSinifNesne\obj\Debug\net5.0\ConsoleAppSinifNesne.csproj.AssemblyReference.cache
